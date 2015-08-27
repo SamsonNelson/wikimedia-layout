@@ -1,0 +1,34 @@
+
+
+.wikimedia{
+ width: 900px;
+ padding-top: 20px;
+ padding: 40px;
+ font-size: 23px;
+ margin: 0 auto;
+ margin-left: 120px
+}
+#welcome{
+  float: right;
+  padding-right: 50px;
+  font-size: 23px;
+  font-weight: bold;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 900px; 
+  width: 80%; 
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-left: 120px;
+  justify-content: space-around;
+}
+.image{
+   width: 150px; 
+  height: 150px;
+  margin-top: 10px;
+  margin: 20px
+}
+
